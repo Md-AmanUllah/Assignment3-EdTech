@@ -48,6 +48,15 @@
     font-weight: 700;
 }
 
+/* Social Media Icons */
+.section10-part2-sub{
+    cursor: pointer;
+}
+
+.section10-part2-sub:hover{
+    transform: scale(1.5);
+}
+
 @media (min-width: 300px) and (max-width: 780px){
 
     .carousel-caption{
